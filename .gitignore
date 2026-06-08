@@ -1,0 +1,4 @@
+attendance.json
+*.csv
+__pycache__/
+*.pyc
